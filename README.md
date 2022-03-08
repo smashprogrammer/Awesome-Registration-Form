@@ -3,7 +3,7 @@
 if you want to clone it on your computer, use this command:
 
 ```js
-    git clone https://github.com/developer-arif-islam/Awesome-Registration-Form-.git
+git clone https://github.com/developer-arif-islam/Awesome-Registration-Form-.git
 
 ```
 
